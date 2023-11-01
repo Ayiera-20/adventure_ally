@@ -1,4 +1,4 @@
-# university_app
+# adventure_ally
 
 A new Flutter project.
 
